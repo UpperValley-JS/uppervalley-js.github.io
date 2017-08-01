@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Presentation Slides: 'What is Typescript and Why You Should Care'"
+title:  "2017-04: 'What is Typescript and Why You Should Care'"
 date:   2017-05-05 07:57:00 -0400
 categories: slides
 ---

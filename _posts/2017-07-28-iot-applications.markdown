@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Realtime IoT Applications Using NodeJS + MQTT!"
-date:   2017-05-01 10:57:43 -0400
+title:  "2017-05: 'Realtime IoT Applications Using NodeJS + MQTT!''"
+date:   2017-06-01 10:57:43 -0400
 categories: jekyll update
 ---
 May 2017 Meeting

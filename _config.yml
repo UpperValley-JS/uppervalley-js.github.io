@@ -16,12 +16,14 @@
 title: Upper Valley JS
 email:
 description: # > # this means to ignore newlines until "baseurl:"
-  Hi! Welcome to the Upper Valley JavaScript Group's pages. Meeting notes and other info should find its way here — feel free to contribute in any way at any time!
+  Hi!
+
+  Welcome to the Upper Valley JavaScript Group's pages. Meeting notes and other info should find its way here — feel free to contribute in any way at any time!
 
   More information about the group and upcoming meetings is at https://www.meetup.com/UpperValleyJS/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: UpperValeyJS
+twitter_username: UpperValleyJS
 github_username:  UpperValleyJS
 
 # Build settings
